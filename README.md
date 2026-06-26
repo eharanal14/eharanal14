@@ -3,7 +3,6 @@
 <!--
 **eharanal14/eharanal14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on finishing high school and earning a BA in EE.
 - 🌱 I’m currently learning algorithms and physics.
